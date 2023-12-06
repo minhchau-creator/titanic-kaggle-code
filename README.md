@@ -1,3 +1,5 @@
+#AI
+
 # titanic-kaggle-code
 - WHAT DONE ?
 <br>Calling out several classification ML models :
